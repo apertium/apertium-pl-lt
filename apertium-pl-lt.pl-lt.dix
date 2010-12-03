@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+<alphabet></alphabet>
+<sdefs>
+  <sdef n="n"/>
+  <sdef n="np"/>
+  <sdef n="top"/>
+  <sdef n="m"/>
+  <sdef n="mp"/>
+  <sdef n="ma"/>
+  <sdef n="mi"/>
+  <sdef n="f"/>
+  <sdef n="nt"/>
+  <sdef n="vblex"/>
+  <sdef n="cnjcoo"/>
+  <sdef n="cnjsub"/>
+  <sdef n="vbhaver"/>
+  <sdef n="adj"/>
+  <sdef n="adv"/>
+  <sdef n="sint"/>
+  <sdef n="num"/>
+</sdefs>
+<pardefs>
+  <pardef n="MF">
+    <e><p><l><s n="mp"/></l><r><s n="m"/></r></p></e>
+    <e><p><l><s n="f"/></l><r><s n="f"/></r></p></e>
+  </pardef>
+</pardefs>
+<section id="main" type="standard">
+  <!-- Proper names: Places -->
+  <e><p><l>Afghanistan<s n="np"/><s n="top"/><s n="mi"/></l><r>Afganistanas<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+  <e><p><l>Alaska<s n="np"/><s n="top"/><s n="f"/></l><r>Aliaska<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+  <e><p><l>Albania<s n="np"/><s n="top"/><s n="f"/></l><r>Albanija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+  <e><p><l>Australia<s n="np"/><s n="top"/><s n="f"/></l><r>Australija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+  <e><p><l>Bułgaria<s n="np"/><s n="top"/><s n="f"/></l><r>Bulgarija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+  <e><p><l>Irlandia<s n="np"/><s n="top"/><s n="f"/></l><r>Airija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+  <e><p><l>Szwecja<s n="np"/><s n="top"/><s n="f"/></l><r>Švedija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+  <e><p><l>Finlandia<s n="np"/><s n="top"/><s n="f"/></l><r>Suomija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+  <e><p><l>Polska<s n="np"/><s n="top"/><s n="f"/></l><r>Lenkija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+  <e><p><l>Litwa<s n="np"/><s n="top"/><s n="f"/></l><r>Lietuva<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+  <e><p><l>Słovacja<s n="np"/><s n="top"/><s n="f"/></l><r>Slovakija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+  <e><p><l>Unia<b/>Europejska<s n="np"/><s n="top"/><s n="f"/></l><r>Europos<b/>Sąjunga<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+  
+  <!-- nouns -->
+  <e><p><l>abiturient<s n="n"/></l><r>abiturientas<s n="n"/></r></p><par n="MF"/></e>
+  <e><p><l>Albaniec<s n="n"/></l><r>albanietis<s n="n"/></r></p><par n="MF"/></e>
+  <e><p><l>Afrikanin<s n="n"/></l><r>afrikietis<s n="n"/></r></p><par n="MF"/></e>
+  <e><p><l>Afrikaans<s n="n"/><s n="mi"/></l><r>Afrikansas<s n="n"/><s n="m"/></r></p></e>
+  <e><p><l>wersja<s n="n"/><s n="f"/></l><r>versija<s n="n"/><s n="f"/></r></p></e>
+  <e><p><l>język<s n="n"/><s n="mi"/></l><r>kalba<s n="n"/><s n="f"/></r></p></e>
+  <e><p><l>dialect<s n="n"/><s n="f"/></l><r>dialektas<s n="n"/><s n="m"/></r></p></e>
+  <e><p><l>gramatyka<s n="n"/><s n="f"/></l><r>gramatika<s n="n"/><s n="f"/></r></p></e>
+  <e><p><l>republika<s n="n"/><s n="f"/></l><r>respublika<s n="n"/><s n="f"/></r></p></e>
+  <e><p><l>unia<s n="n"/><s n="f"/></l><r>sąjunga<s n="n"/><s n="f"/></r></p></e>
+  <e><p><l>planeta<s n="n"/><s n="f"/></l><r>planeta<s n="n"/><s n="f"/></r></p></e>
+  <e><p><l>matura<s n="n"/><s n="f"/></l><r>abitūra<s n="n"/><s n="f"/></r></p></e>
+  
+  <e><p><l>brudny<s n="adj"/></l><r>purvinas<s n="adj"/></r></p></e>
+  <e><p><l>czysty<s n="adj"/></l><r>grynas<s n="adj"/></r></p></e>
+  <e><p><l>cichy<s n="adj"/></l><r>tylus<s n="adj"/></r></p></e>
+  <e><p><l>suchy<s n="adj"/></l><r>sausas<s n="adj"/></r></p></e>
+  <e><p><l>zielony<s n="adj"/></l><r>žalias<s n="adj"/></r></p></e>
+  <e><p><l>abchaski<s n="adj"/></l><r>abchaziškas<s n="adj"/></r></p></e>
+  <e><p><l>pusty<s n="adj"/></l><r>tuščias<s n="adj"/></r></p></e>
+
+  <e><p><l>ale<s n="cnjcoo"/></l><r>bet<s n="cnjcoo"/></r></p></e>
+  <e><p><l>i<s n="cnjcoo"/></l><r>ir<s n="cnjcoo"/></r></p></e>
+  <e><p><l>a<s n="cnjcoo"/></l><r>bei<s n="cnjcoo"/></r></p></e>
+  
+  <e><p><l>tu<s n="adv"/></l><r>čia<s n="adv"/></r></p></e>
+  <e><p><l>tam<s n="adv"/></l><r>ten<s n="adv"/></r></p></e>
+  <e><p><l>często<s n="adv"/><s n="sint"/></l><r>dažnai<s n="adv"/><s n="sint"/></r></p></e>
+
+  <!-- FIXME: the whole 'sp' thing needs to be handled -->
+  <e><p><l>jeden<s n="num"/></l><r>vienas<s n="num"/></r></p></e>
+  <e><p><l>dwa<s n="num"/></l><r>du<s n="num"/></r></p></e>
+  <e><p><l>trzy<s n="num"/></l><r>trys<s n="num"/></r></p></e>
+  <e><p><l>cztery<s n="num"/></l><r>keturi<s n="num"/></r></p></e>
+  <e><p><l>pięć<s n="num"/></l><r>penki<s n="num"/></r></p></e>
+  <e><p><l>sześć<s n="num"/></l><r>šeši<s n="num"/></r></p></e>
+  <e><p><l>siedem<s n="num"/></l><r>septyni<s n="num"/></r></p></e>
+  <e><p><l>osiem<s n="num"/></l><r>aštuoni<s n="num"/></r></p></e>
+  <e><p><l>dziewięć<s n="num"/></l><r>devyni<s n="num"/></r></p></e>
+
+  <e><p><l>mieć<s n="vbhaver"/></l><r>turėti<s n="vbhaver"/></r></p></e>
+  <e><p><l>pracować<s n="vblex"/></l><r>dirbti<s n="vblex"/></r></p></e>
+  <e><p><l>chcieć<s n="vblex"/></l><r>norėti<s n="vblex"/></r></p></e>
+  <e><p><l>czytać<s n="vblex"/></l><r>skaityti<s n="vblex"/></r></p></e>
+</section>
+</dictionary>
